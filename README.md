@@ -21,7 +21,7 @@ The workflow involves:
    ```bash
    git clone https://github.com/username/my_project.git
    cd my_project
-2. Clone the repository:
+2. Prepare the data:
    ```bash
    python src/1_data_prep.py
 3. Run feature extraction
