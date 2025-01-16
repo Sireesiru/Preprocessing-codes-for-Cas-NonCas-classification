@@ -13,7 +13,7 @@ The workflow involves:
 ### Requirements
 - Python 3.8+
 - Boruta 0.3
-- ````bash
+  ```bash
   pip install Boruta
   
 ### Setup
