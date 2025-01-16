@@ -14,26 +14,16 @@ The workflow involves:
   ```bash
   pip install Boruta
   
-### Setup  
-1. Prepare the data:
-   ```bash
-   python data_prep.py
-2. Run feature extraction
-   ```bash
-   python feature_extraction.py   
-3. Perform classification
-   ````bash
-   python classification.py
-4. Clone the repository:
+### Setup 
+1. Clone the repository:
    ```bash
    git clone https://github.com/Sireesiru/Preprocessing-codes-for-Cas-NonCas-classification.git
    cd my_project
-5. Install dependencies
+2. Install dependencies
     ```bash
     pip install -r requirements.txt
 
 ###  Running the Workflow
-   
 1. Prepare the data:
    ```bash
    python data_prep.py
@@ -43,6 +33,4 @@ The workflow involves:
 3. Perform classification
    ````bash
    python classification.py
-
-
 
