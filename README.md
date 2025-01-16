@@ -13,7 +13,9 @@ The workflow involves:
 ### Requirements
 - Python 3.8+
 - Boruta 0.3
-
+- ````bash
+  pip install Boruta
+  
 ### Setup
 1. Clone the repository:
    ```bash
