@@ -15,24 +15,12 @@ The workflow involves:
   pip install Boruta
   
 ### Setup
-1. Clone the repository:
+Clone the repository:
 ```bash
    git clone https://github.com/username/my_project.git
    cd my_project
-## 2. Install dependencies
+Install dependencies
 ```bash
 pip install -r requirements.txt
-
-**###Running the Workflow**
-   
-1. Prepare the data:
-   ```bash
-   python data_prep.py
-2. Run feature extraction
-   ```bash
-   python feature_extraction.py   
-3. Perform classification
-   ````bash
-   python classification.py
 
 
