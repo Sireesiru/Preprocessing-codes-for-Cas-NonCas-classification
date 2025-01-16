@@ -15,13 +15,13 @@ The workflow involves:
   pip install Boruta
   
 ### Setup
-Clone the repository:
+1. Clone the repository:
 ```bash
    git clone https://github.com/username/my_project.git
    cd my_project
-Install dependencies
-   ```bash
-   pip install -r requirements.txt
+## 2. Install dependencies
+```bash
+pip install -r requirements.txt
 
 **###Running the Workflow**
    
