@@ -7,9 +7,7 @@ The workflow involves:
 2. **Feature Extraction:** Extracting features from the prepared data (`src/2_feature_extraction.py`).
 3. **Classification:** Using extracted features for classification (`src/3_classification.py`)
 
-
 ## Getting Started
-
 ### Requirements
 - Python 3.8+
 - Boruta 0.3
@@ -18,7 +16,6 @@ The workflow involves:
   
 ### Setup
 Clone the repository:
-   ```bash
    git clone https://github.com/username/my_project.git
    cd my_project
 Install dependencies
