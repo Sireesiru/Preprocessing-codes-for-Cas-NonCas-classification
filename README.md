@@ -27,7 +27,7 @@ The workflow involves:
 
 Clone the repository:
 ```bash
-git clone https://github.com/username/my_project.git
+git clone [https://github.com/username/my_project.git](https://github.com/Sireesiru/Preprocessing-codes-for-Cas-NonCas-classification.git)
 cd my_project
 
 Install dependencies
