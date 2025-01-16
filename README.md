@@ -24,15 +24,13 @@ The workflow involves:
 3. Perform classification
    ````bash
    python classification.py
-
-Clone the repository:
-```bash
-git clone https://github.com/Sireesiru/Preprocessing-codes-for-Cas-NonCas-classification.git
-cd my_project
-
-Install dependencies
-```bash
-pip install -r requirements.txt
+4. Clone the repository:
+   ```bash
+   git clone https://github.com/Sireesiru/Preprocessing-codes-for-Cas-NonCas-classification.git
+   cd my_project
+5. Install dependencies
+    ```bash
+    pip install -r requirements.txt
 
 ###  Running the Workflow
    
