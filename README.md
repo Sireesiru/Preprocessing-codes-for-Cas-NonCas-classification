@@ -16,6 +16,7 @@ The workflow involves:
   
 ### Setup
 Clone the repository:
+```bash
    git clone https://github.com/username/my_project.git
    cd my_project
 Install dependencies
