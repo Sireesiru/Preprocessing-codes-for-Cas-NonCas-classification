@@ -25,9 +25,9 @@ The workflow involves:
    ```bash
    python src/1_data_prep.py
 3. Run feature extraction
-   ``bash
-   python src/2_feature_extraction.py
-4. Perform classification
+   ```bash
+   python src/2_feature_extraction.py   
+5. Perform classification
    ````bash
    python src/3_classification.py
 
