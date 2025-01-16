@@ -27,9 +27,12 @@ The workflow involves:
 1. Prepare the data:
    ```bash
    python data_prep.py
-2. Run feature extraction
+2. Preprocess the data
    ```bash
-   python feature_extraction.py   
+   python preprocess.py
+3. SHAP Feature extraction 
+   ````bash
+   python SHAP.py
 3. Perform classification
    ````bash
    python classification.py
