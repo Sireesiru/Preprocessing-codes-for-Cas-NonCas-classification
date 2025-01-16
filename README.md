@@ -30,10 +30,10 @@ The workflow involves:
 2. Preprocess the data
    ```bash
    python preprocess.py
-3. SHAP Feature extraction 
+3. SHAP_feature_selection.py 
    ````bash
    python SHAP.py
 3. Perform classification
    ````bash
-   python classification.py
+   python RF_model_model.py
 
